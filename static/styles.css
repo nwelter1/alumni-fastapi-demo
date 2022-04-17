@@ -2,3 +2,6 @@ div{
     text-align: center;
     background-color: yellow;
 }
+li{
+    list-style: none;
+}
